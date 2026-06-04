@@ -124,7 +124,7 @@ const anushiya = {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anushiya06&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://www.linkedin.com/posts/anushiya-kanagaraj01_legalrightsadvisor-aichatbot-legalawareness-activity-7319594829846388736-3Wtd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEcYg6cBZnH4AK4bNsGFnkkDqwMi5D9UUI4"/>
 </div>
 
 ---
