@@ -1,13 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ANUSHIYA%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20MERN%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=62&descSize=16"/>
 
 <div align="center">
-  <a href="https://github.com/anushiya-k">
-    <img src="https://komarev.com/ghpvc/?username=anushiya-k&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
+  <a href="https://github.com/Anushiya06">
+    <img src="https://komarev.com/ghpvc/?username=Anushiya06&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
   </a>
   <a href="mailto:anushiya.kokila@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-anushiya.kokila%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/anushiya-k">
+  <a href="https://www.linkedin.com/in/anushiya-kanagaraj01/">
     <img src="https://img.shields.io/badge/LinkedIn-Anushiya%20K-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </div>
@@ -30,7 +30,7 @@ const anushiya = {
   location    : "Tamil Nadu, India 🇮🇳",
   degree      : "B.E. Computer Science Engineering (2023–2027)",
   college     : "Sri Eshwar College of Engineering",
-  cgpa        : 8.2,
+  cgpa        : 8.1,
 
   stack       : ["React.js", "Node.js", "Express.js", "MongoDB",
                  "JavaScript", "Java", "Python", "C", "C++"],
@@ -41,7 +41,7 @@ const anushiya = {
     "Advanced DSA Patterns",
   ],
 
-  funFact     : "I scored 100% in SSLC 🎯 and I still debug for fun!",
+  funFact     : "I scored 90% in SSLC and I still debug for fun!",
 
   motto       : () => "Code. Build. Solve. Repeat. 🚀",
 };
@@ -95,11 +95,11 @@ const anushiya = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anushiya-k">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=anushiya-k&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/Anushiya06">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anushiya06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/anushiya-k">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushiya-k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/Anushiya06">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushiya06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -108,7 +108,7 @@ const anushiya = {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=anushiya-k&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Anushiya06&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -116,7 +116,7 @@ const anushiya = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushiya-k&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anushiya06&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -124,7 +124,7 @@ const anushiya = {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anushiya-k&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Anushiya06&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -158,9 +158,9 @@ const anushiya = {
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |:---|:---|:---|
-| [**👗 Fashion Store**](https://github.com/anushiya-k) | React.js · Vite · Tailwind CSS · Node.js · Express.js · MongoDB · JWT | Interactive fashion platform with category-based browsing (Men/Women/Kids), JWT auth, cart & wishlist, secure checkout |
-| [**🏨 Hotel Management System**](https://github.com/anushiya-k) | Python | Dynamic sorting, location-based filtering, booking system; modular design using efficient data structures & file handling |
-| [**📋 Interview Prep Application**](https://github.com/anushiya-k) | HTML · CSS · JavaScript · Node.js · Express · MongoDB | Company-specific interview Q&A, flashcard tests, responsive design; bridges the gap in structured job-prep resources |
+| [**👗 Fashion Store**](https://github.com/Anushiya06/FashionStore) | React.js · Vite · Tailwind CSS · Node.js · Express.js · MongoDB · JWT | Interactive fashion platform with category-based browsing (Men/Women/Kids), JWT auth, cart & wishlist, secure checkout |
+| [**🏨 Hotel Management System**](https://github.com/Anushiya06/HOTEL-MANAGEMENT-SYSTEM-PYTHON) | Python | Dynamic sorting, location-based filtering, booking system; modular design using efficient data structures & file handling |
+| [**📋 Interview Prep Application**](https://github.com/Anushiya06/project-scholarhub) | HTML · CSS · JavaScript · Node.js · Express · MongoDB | Company-specific interview Q&A, flashcard tests, responsive design; bridges the gap in structured job-prep resources |
 
 </div>
 
@@ -191,7 +191,7 @@ const anushiya = {
 |:---|:---|:---|:---|
 | B.E. Computer Science Engineering | Sri Eshwar College of Engineering | 2023 – 2027 | CGPA: **8.2** (up to 5th sem) |
 | HSC (Class XII) | Vighneswar Vidhya Mandhir Matric Hr. Sec. School | 2021 – 2023 | **84%** |
-| SSLC (Class X) | Vighneswar Vidhya Mandhir Matric Hr. Sec. School | 2020 – 2021 | **100%** 🎯 |
+| SSLC (Class X) | Vighneswar Vidhya Mandhir Matric Hr. Sec. School | 2020 – 2021 | **90%** |
 
 </div>
 
